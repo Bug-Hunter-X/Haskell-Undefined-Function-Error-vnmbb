@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming: calling an undefined function. The `bug.hs` file contains the erroneous code, which attempts to use the undefined function `undefinedFunction`.  The solution, in `bugSolution.hs`, shows how to avoid this error by either defining the function or using a more robust error handling mechanism.
